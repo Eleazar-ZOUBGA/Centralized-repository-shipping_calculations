@@ -1,5 +1,4 @@
 # Here is a new update by Eleazar-ZOUBGA
-# Here is another update by Eleazar-ZOUBGA
 
 # Shipping Cost Calculator
 
